@@ -1,0 +1,1 @@
+Array.from(document.querySelectorAll(".bubble-element.Group.bubble-r-container.flex.row > .bubble-element.CustomElement.bubble-r-container.flex.column > .bubble-element.Group.bubble-r-container.flex.row > .bubble-element.Group.bubble-r-container.flex.column > .bubble-element.Text:first-child")).map(e => e.textContent)
